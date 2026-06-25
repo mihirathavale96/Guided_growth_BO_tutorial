@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/Guided_growth_BO_tutorial/blob/main/bayesian_optimization_device_growth.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A hands-on, self-contained tutorial on **Bayesian optimization (BO) for device growth** — no machine-learning background required. We use a toy microring laser growth problem as the running example, but the workflow applies to any epitaxial growth process where experiments are expensive and the recipe space is large.
+A hands-on, self-contained tutorial on **Bayesian optimization (BO) for device growth**. We use a toy microring laser growth problem as the running example, but the workflow applies to any epitaxial growth process where experiments are expensive and the recipe space is large.
 
 ---
 
