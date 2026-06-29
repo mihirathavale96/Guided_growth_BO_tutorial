@@ -1,7 +1,7 @@
 # Guided Growth BO Tutorial
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mihirathavale96/Guided_growth_BO_tutorial/blob/main/bayesian_optimization_device_growth.ipynb)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 A hands-on, self-contained tutorial on **Bayesian optimization (BO) for device growth**. We use a toy microring laser growth problem as the running example, but the workflow applies to any epitaxial growth process where experiments are expensive and the recipe space is large.
 
@@ -97,11 +97,6 @@ That repo applies the same DoE → BO workflow — with `qNParEGO` acquisition a
 | `pandas` | <2.3 | Data frames (pinned for Ax compat) |
 | `matplotlib` | any | Plots |
 
----
-
-## License
-
-MIT — see [LICENSE](LICENSE).
 
 ---
 
