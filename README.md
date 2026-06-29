@@ -63,7 +63,7 @@ We simulate a microring laser growth process with three knobs:
 
 - **Growth temperature** (480–560 °C)
 - **V/III precursor ratio** (5–50)
-- **Ring radius** (2–10 µm)
+- **AsH3_fraction** (0.10–0.50)
 
 The simulator returns two metrics — PL intensity (brightness) and emission wavelength — with a small amount of noise to mimic real device-to-device variation. The two objectives genuinely conflict: the brightest recipe emits near 1348 nm, while hitting the O-band target (1310 nm) requires a different recipe. This makes the multi-objective section non-trivial.
 
@@ -111,9 +111,9 @@ If you use this tutorial in your work, please cite:
 
 ```bibtex
 @misc{guided_growth_bo_tutorial,
-  author    = {Athavale, Mihir},
+  author    = {Athavale, Mihir R.},
   title     = {Guided Growth BO Tutorial},
-  year      = {2025},
+  year      = {2026},
   publisher = {GitHub},
   url       = {https://github.com/YOUR_GITHUB_USERNAME/Guided_growth_BO_tutorial}
 }
