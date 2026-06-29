@@ -37,7 +37,6 @@ Once it opens:
 1. **Runtime → Change runtime type → CPU** (no GPU needed)
 2. Run the **Setup cell** (Section 0)
 3. **Runtime → Restart session** (once — required because we pin NumPy and pandas)
-4. **Runtime → Run all**
 
 Each person who opens the link gets their own private copy — nothing they change affects anyone else.
 
