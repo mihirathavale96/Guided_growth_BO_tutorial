@@ -54,15 +54,6 @@ jupyter notebook bayesian_optimization_device_growth.ipynb
 > `pandas>=2.3` enables Copy-on-Write which crashes Ax's internal winsorization step.
 > `numpy>=2` breaks the torch/BoTorch interop. The pins are about correctness, not just reproducibility.
 
----
-
-## Repository structure
-
-```
-Guided_growth_BO_tutorial/
-├── bayesian_optimization_device_growth.ipynb   # main tutorial notebook
-└── README.md
-```
 
 ---
 
