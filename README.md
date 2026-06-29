@@ -75,7 +75,7 @@ This tutorial is a miniature of the OMS-lab study on bottom-up grown InP/InAsP M
 
 **[github.com/OMS-lab/Microring_MOBO](https://github.com/OMS-lab/Microring_MOBO)**
 
-That repo applies the same DoE → BO workflow — with `qNParEGO` acquisition and PCA-enhanced DoE — to real MOVPE growth data. See also: [Athavale et al., *ACS Photonics*  2025 12 (8), 4260-4268](https://doi.org/10.1021/acsphotonics.5c00520).
+That repo applies the same DoE → BO workflow — with `qNParEGO` acquisition and PCA-enhanced DoE — to real MOVPE growth data. See also: **[Athavale et al., *ACS Photonics*  2025 12 (8), 4260-4268](https://doi.org/10.1021/acsphotonics.5c00520)**.
 
 ---
 
