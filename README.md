@@ -65,7 +65,7 @@ We simulate a microring laser growth process with three knobs:
 - **V/III precursor ratio** (5–50)
 - **AsH3_fraction** (0.10–0.50)
 
-The simulator returns two metrics — PL intensity (brightness) and emission wavelength — with a small amount of noise to mimic real device-to-device variation. The two objectives genuinely conflict: the brightest recipe emits near 1348 nm, while hitting the O-band target (1310 nm) requires a different recipe. This makes the multi-objective section non-trivial.
+The simulator returns two metrics — PL intensity (brightness) and emission wavelength — with a small amount of noise to mimic real device-to-device variation.
 
 ---
 
@@ -75,7 +75,7 @@ This tutorial is a miniature of the OMS-lab study on bottom-up grown InP/InAsP M
 
 **[github.com/OMS-lab/Microring_MOBO](https://github.com/OMS-lab/Microring_MOBO)**
 
-That repo applies the same DoE → BO workflow — with `qNParEGO` acquisition and PCA-enhanced DoE — to real MOVPE growth data. See also: Athavale et al., *ACS Photonics*.
+That repo applies the same DoE → BO workflow — with `qNParEGO` acquisition and PCA-enhanced DoE — to real MOVPE growth data. See also: Athavale et al., *ACS Photonics*  2025 12 (8), 4260-4268.
 
 ---
 
